@@ -2,7 +2,7 @@
 <%@ page import="java.util.Date"%>
 
 <%	
-	String greeting = "Star Coffee(강민찬) 환영합니다";
+	String greeting = "Star Coffee(이름) 환영합니다";
 	String tagline = "Welcome to Star Coffee!";
 
 	String contentPage = request.getParameter("contentPage");
